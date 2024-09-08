@@ -1,0 +1,15 @@
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-2-KrishMansharamani.exe
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-2-KrishMansharamani.deps.json
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-2-KrishMansharamani.runtimeconfig.json
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-2-KrishMansharamani.dll
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-2-KrishMansharamani.pdb
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-2-KrishMansharamani.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-2-KrishMansharamani.AssemblyInfoInputs.cache
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-2-KrishMansharamani.AssemblyInfo.cs
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-2-KrishMansharamani.csproj.CoreCompileInputs.cache
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-2-KrishMansharamani.sourcelink.json
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-2-KrishMansharamani.dll
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\refint\mis-221-lab-2-KrishMansharamani.dll
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-2-KrishMansharamani.pdb
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-2-KrishMansharamani.genruntimeconfig.cache
+c:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-2-KrishMansharamani\obj\Debug\net8.0\ref\mis-221-lab-2-KrishMansharamani.dll
